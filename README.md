@@ -51,5 +51,5 @@ Avatar: O Bing se destacou na criação de imagens. A elfa que ele gerou a parti
 Diálogo: Quanto aos diálogos gerados pelo ChatGPT, não tenho muitas críticas. Gosto muito do ChatGPT, especialmente por sua naturalidade em comparação com outras ferramentas. Apenas algumas intervenções foram necessárias para ajustar o texto à limitação de caracteres do D-ID e para garantir que fizesse sentido em determinados slides.
 
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Em resumo, esta foi uma experiência gratificante. A cada dia que aprendo mais sobre Inteligência Artificial, sinto um desejo ainda maior de explorar suas possibilidades. A forma como ela aprimora nossos projetos, proporcionando mais conforto, segurança, agilidade, facilidade e suporte, é incrível. A Inteligência Artificial potencializa nossas ideias, enriquecendo-nos e nos dando mais tempo para viver nossas vidas e focar no que é importante para nós.
