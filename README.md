@@ -37,11 +37,19 @@ A ideia foi criar uma apresentação sobre jogos NFT, apresentada por uma person
 * Canva: Canva é uma plataforma de design gráfico que permite criar e editar layouts visuais, apresentações, vídeos e outros materiais de forma intuitiva, com uma ampla variedade de templates e ferramentas de design.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Depois de estruturar a ideia, utilizei o Bing para criar a imagem da personagem NFT fictícia. Em seguida, usei o Gamma para criar os slides. Inicialmente, planejava usar os slides completos do Gamma (texto + layout), mas encontrei dificuldades para anexar a personagem animada na apresentação. Resolvi esse problema e a limitação de caracteres do D-ID ao descobrir que é possível usar o D-ID dentro do Canva.
+
+No Canva, consegui fazer o download da personagem criada no Bing como um avatar personalizado no D-ID. Também pelo Canva, inseri os diálogos gerados pelo ChatGPT e animei a personagem conforme as necessidades de cada slide. No Canva, os créditos para animação são descontados de acordo com o tamanho do texto.
+
+Como não consegui importar os slides do Gamma para o Canva, escolhi um layout de apresentação pronto, já disponível na própria plataforma, e copiei o texto gerado pelo Gamma, colando no Canva e fazendo as alterações necessárias. Fiz tudo isso utilizando apenas o acesso gratuito em todas as tecnologias. Depois disso, baixei o projeto em vídeo MP4 e PDF para subir no GitHub e entregar meu projeto. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Slides: Estou muito satisfeita com a qualidade dos slides - o Gamma ajudou bastante na criação da apresentação ao estruturar toda a organização: onde o texto deveria estar e quais tópicos seriam abordados. Adorei usar o Gamma para criar apresentações. A única limitação foi a incapacidade de incluir vídeos de forma orgânica nos slides fornecidos. Apesar disso, com a estrutura da apresentação pronta, as edições no Canva foram rápidas.
+
+Avatar: O Bing se destacou na criação de imagens. A elfa que ele gerou a partir das minhas instruções ficou linda. O D-ID funciona melhor com os avatares da versão premium, mas mesmo assim a animação teve um resultado satisfatório. A voz escolhida para a animação foi a mais natural dentre as disponíveis, no meu ponto de vista. Houve alguns pequenos problemas, como o corte e a realocação da orelha durante os movimentos da personagem, mas considerando que utilizei a versão gratuita, o resultado foi bom.
+
+Diálogo: Quanto aos diálogos gerados pelo ChatGPT, não tenho muitas críticas. Gosto muito do ChatGPT, especialmente por sua naturalidade em comparação com outras ferramentas. Apenas algumas intervenções foram necessárias para ajustar o texto à limitação de caracteres do D-ID e para garantir que fizesse sentido em determinados slides.
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Em resumo, esta foi uma experiência gratificante. A cada dia que aprendo mais sobre Inteligência Artificial, sinto um desejo ainda maior de explorar suas possibilidades. A forma como ela aprimora nossos projetos, proporcionando mais conforto, segurança, agilidade, facilidade e suporte, é incrível. A Inteligência Artificial potencializa nossas ideias, enriquecendo-nos e nos dando mais tempo para viver nossas vidas e focar no que é importante para nós.
