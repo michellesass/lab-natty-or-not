@@ -41,7 +41,7 @@ Depois de estruturar a ideia, utilizei o Bing para criar a imagem da personagem 
 
 No Canva, consegui fazer o download da personagem criada no Bing como um avatar personalizado no D-ID. Também pelo Canva, inseri os diálogos gerados pelo ChatGPT e animei a personagem conforme as necessidades de cada slide. No Canva, os créditos para animação são descontados de acordo com o tamanho do texto.
 
-Como não consegui importar os slides do Gamma para o Canva, escolhi um layout de apresentação pronto, já disponível na própria plataforma, e copiei o texto gerado pelo Gamma, colando no Canva e fazendo as alterações necessárias. Fiz tudo isso utilizando apenas o acesso gratuito em todas as tecnologias. Depois disso, baixei o projeto em vídeo MP4 e PDF para subir no GitHub e entregar meu projeto. 
+Como não consegui importar os slides do Gamma para o Canva, escolhi um layout de apresentação pronto no Canva, já disponível na própria plataforma, e copiei o texto gerado pelo Gamma, colando no Canva e fazendo as alterações necessárias. Fiz tudo isso utilizando apenas o acesso gratuito em todas as tecnologias. Depois disso, baixei o projeto em vídeo MP4 e PDF para subir no GitHub e entregar meu projeto. O Canva também permite o download em PowerPoint (.pptx).
 
 ## 🚀 Resultados
 Slides: Estou muito satisfeita com a qualidade dos slides - o Gamma ajudou bastante na criação da apresentação ao estruturar toda a organização: onde o texto deveria estar e quais tópicos seriam abordados. Adorei usar o Gamma para criar apresentações. A única limitação foi a incapacidade de incluir vídeos de forma orgânica nos slides fornecidos. Apesar disso, com a estrutura da apresentação pronta, as edições no Canva foram rápidas.
