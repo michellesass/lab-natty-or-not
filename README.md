@@ -14,7 +14,7 @@ Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida
 
 # Título: "Jogos NFT: Explorando o Futuro dos Jogos Digitais"
 
-## 🚀 ACESSE MEU PROJETO AQUI COMPLETO AQUI:
+## ⬇️ ACESSE MEU PROJETO AQUI COMPLETO AQUI ⬇️:
 
 > (https://www.canva.com/design/DAGHvOWSu64/6fW9C8oo_JVCQQ6k4ih82A/view?utm_content=DAGHvOWSu64&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
